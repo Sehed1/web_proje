@@ -20,3 +20,10 @@ node_modules
 *.njsproj
 *.sln
 *.sw?
+
+.dist
+
+# ignore dist folder
+dist
+.vercel
+.env
